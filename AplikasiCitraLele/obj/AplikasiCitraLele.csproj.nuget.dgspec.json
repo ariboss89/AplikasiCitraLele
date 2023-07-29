@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/ariramadhan/Projects/AplikasiCitraLele/AplikasiCitraLele/AplikasiCitraLele.csproj": {}
+  },
+  "projects": {
+    "/Users/ariramadhan/Projects/AplikasiCitraLele/AplikasiCitraLele/AplikasiCitraLele.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ariramadhan/Projects/AplikasiCitraLele/AplikasiCitraLele/AplikasiCitraLele.csproj",
+        "projectName": "AplikasiCitraLele",
+        "projectPath": "/Users/ariramadhan/Projects/AplikasiCitraLele/AplikasiCitraLele/AplikasiCitraLele.csproj",
+        "packagesPath": "/Users/ariramadhan/.nuget/packages/",
+        "outputPath": "/Users/ariramadhan/Projects/AplikasiCitraLele/AplikasiCitraLele/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/Users/ariramadhan/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid12.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid12.0": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid12.0": {
+          "dependencies": {
+            "Emgu.CV": {
+              "target": "Package",
+              "version": "[4.7.0.5276, )"
+            },
+            "System.Net.Http": {
+              "target": "Package",
+              "version": "[4.3.4, )"
+            },
+            "Xam.Plugin.Media": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Xamarin.AndroidX.AppCompat": {
+              "target": "Package",
+              "version": "[1.2.0.5, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.6.1, )"
+            },
+            "Xamarin.Google.Android.Material": {
+              "target": "Package",
+              "version": "[1.0.0.1, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,75 @@
+<LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent" xmlns:android="http://schemas.android.com/apk/res/android"><LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:background="@color/colorBlue" android:padding="10dp"><LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:orientation="horizontal" android:gravity="center_vertical" android:backgroundTint="@color/colorBlue" android:padding="7dp"><TextView android:gravity="center_horizontal" android:textColorHint="@color/colorWhite" android:backgroundTint="@color/colorWhite" android:textColor="@color/colorWhite" android:paddingLeft="10dp" android:textSize="14sp" android:textStyle="bold" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="10dp" android:hint="MAIN MENU" /></LinearLayout></LinearLayout><LinearLayout android:layout_width="match_parent" android:layout_height="match_parent" android:orientation="vertical" android:weightSum="3" android:padding="20dp"><LinearLayout android:id="@+id/linCitra" android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="1" android:background="@drawable/edge" android:orientation="vertical"><ImageView android:layout_marginTop="10dp" android:layout_gravity="center_horizontal" android:layout_width="80dp" android:layout_height="100dp" android:src="@drawable/iconaperture" /><View android:background="#e2e2e2" android:layout_width="match_parent" android:layout_height="1dp" /><TextView android:textSize="18dp" android:textStyle="bold" android:layout_gravity="center_vertical" android:gravity="center" android:textColor="@color/colorBlack" android:text="Pengolahan Citra" android:layout_width="match_parent" android:layout_height="match_parent" /></LinearLayout><!--<LinearLayout
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:layout_height="0dp"
+        android:gravity="center"
+        android:layout_weight="1"
+        android:weightSum="1">
+
+        <LinearLayout
+        android:id="@+id/linPengguna"           
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:background="@drawable/edge"
+        android:layout_weight="0.5"
+        android:layout_marginRight="10dp"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_marginTop="10dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_width="80dp"
+            android:layout_height="100dp"
+            android:src="@drawable/iconadmin"/>
+
+         <View
+            android:background="#e2e2e2"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"/>
+
+          <TextView
+            android:textSize="18dp"
+            android:textStyle="bold"
+            android:layout_gravity="center_vertical"
+            android:gravity="center"
+            android:textColor="@color/colorBlack"
+            android:text="Pengguna"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"/>
+        </LinearLayout>
+
+        <LinearLayout
+        android:id="@+id/linRiwayat"           
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:background="@drawable/edge"
+        android:layout_weight="0.5"
+                android:layout_marginLeft="10dp"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_marginTop="10dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_width="80dp"
+            android:layout_height="100dp"
+            android:src="@drawable/iconhistory"/>
+
+         <View
+            android:background="#e2e2e2"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"/>
+
+          <TextView
+            android:textSize="18dp"
+            android:textStyle="bold"
+            android:layout_gravity="center_vertical"
+            android:gravity="center"
+            android:textColor="@color/colorBlack"
+            android:text="Riwayat"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"/>
+        </LinearLayout>
+
+    </LinearLayout>
+--><LinearLayout android:layout_marginTop="20dp" android:id="@+id/linRiwayat" android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="1" android:background="@drawable/edge" android:orientation="vertical"><ImageView android:layout_marginTop="10dp" android:layout_gravity="center_horizontal" android:layout_width="80dp" android:layout_height="100dp" android:src="@drawable/iconhistory" /><View android:background="#e2e2e2" android:layout_width="match_parent" android:layout_height="1dp" /><TextView android:textSize="18dp" android:textStyle="bold" android:layout_gravity="center_vertical" android:gravity="center" android:textColor="@color/colorBlack" android:text="Riwayat Citra" android:layout_width="match_parent" android:layout_height="match_parent" /></LinearLayout><LinearLayout android:id="@+id/linExit" android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="1" android:layout_marginTop="20dp" android:background="@drawable/edge" android:orientation="vertical"><ImageView android:layout_marginTop="10dp" android:layout_gravity="center_horizontal" android:layout_width="80dp" android:layout_height="100dp" android:src="@drawable/iconexit" /><View android:background="#e2e2e2" android:layout_width="match_parent" android:layout_height="1dp" /><TextView android:textSize="18dp" android:textStyle="bold" android:layout_gravity="center_vertical" android:gravity="center" android:textColor="@color/colorBlack" android:text="Exit" android:layout_width="match_parent" android:layout_height="match_parent" /></LinearLayout></LinearLayout></LinearLayout>
