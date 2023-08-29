@@ -32,10 +32,19 @@
 			    android:paddingLeft="-20dp"
                 android:layout_weight="0.1"/>
 
+            <TextView
+                android:gravity="center"
+                android:textStyle="bold"
+                android:textColor="@color/colorWhite"
+                android:layout_width="0dp"
+                android:layout_weight="0.8"
+                android:layout_height="wrap_content"
+                android:text="PROSES GRAYSCALE"/>
+
             <Space
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
-                android:layout_weight="0.8"/>
+                android:layout_weight="0.1"/>
 
        
         </LinearLayout>

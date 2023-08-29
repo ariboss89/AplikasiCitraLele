@@ -9,6 +9,9 @@ namespace AplikasiCitraLele.StaticDetails
 
         public static byte[,] imgBiner2 { get; set; }
 
+        public static int total_pixel { get; set; }
+        public static string keterangan { get; set; }
+
     }
 }
 

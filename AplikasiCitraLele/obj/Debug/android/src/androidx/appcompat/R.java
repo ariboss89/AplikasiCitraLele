@@ -705,14 +705,14 @@ public final class R {
 		public static final int default_activity_button = 0x7f080061;
 		public static final int dialog_button = 0x7f080067;
 		public static final int edit_query = 0x7f080069;
-		public static final int expand_activities_button = 0x7f080075;
-		public static final int expanded_menu = 0x7f080076;
-		public static final int forever = 0x7f08007d;
-		public static final int group_divider = 0x7f080081;
-		public static final int home = 0x7f080082;
-		public static final int icon = 0x7f080084;
-		public static final int icon_group = 0x7f080085;
-		public static final int image = 0x7f080087;
+		public static final int expand_activities_button = 0x7f080074;
+		public static final int expanded_menu = 0x7f080075;
+		public static final int forever = 0x7f08007c;
+		public static final int group_divider = 0x7f080080;
+		public static final int home = 0x7f080081;
+		public static final int icon = 0x7f080083;
+		public static final int icon_group = 0x7f080084;
+		public static final int image = 0x7f080086;
 		public static final int info = 0x7f08008c;
 		public static final int italic = 0x7f08008d;
 		public static final int line1 = 0x7f080095;
@@ -775,10 +775,10 @@ public final class R {
 		public static final int titleDividerNoCustom = 0x7f0800f1;
 		public static final int title_template = 0x7f0800f2;
 		public static final int topPanel = 0x7f0800f5;
-		public static final int unchecked = 0x7f0800fc;
-		public static final int uniform = 0x7f0800fd;
-		public static final int up = 0x7f0800ff;
-		public static final int wrap_content = 0x7f080106;
+		public static final int unchecked = 0x7f0800fe;
+		public static final int uniform = 0x7f0800ff;
+		public static final int up = 0x7f080101;
+		public static final int wrap_content = 0x7f080108;
 	}
 	public static final class integer {
 		public static final int abc_config_activityDefaultDur = 0x7f090000;

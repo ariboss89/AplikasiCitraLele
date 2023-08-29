@@ -117,10 +117,10 @@ public final class R {
 		public static final int blocking = 0x7f080042;
 		public static final int chronometer = 0x7f080056;
 		public static final int dialog_button = 0x7f080067;
-		public static final int forever = 0x7f08007d;
-		public static final int fragment_container_view_tag = 0x7f08007e;
-		public static final int icon = 0x7f080084;
-		public static final int icon_group = 0x7f080085;
+		public static final int forever = 0x7f08007c;
+		public static final int fragment_container_view_tag = 0x7f08007d;
+		public static final int icon = 0x7f080083;
+		public static final int icon_group = 0x7f080084;
 		public static final int info = 0x7f08008c;
 		public static final int italic = 0x7f08008d;
 		public static final int line1 = 0x7f080095;
@@ -143,7 +143,7 @@ public final class R {
 		public static final int text2 = 0x7f0800e7;
 		public static final int time = 0x7f0800ef;
 		public static final int title = 0x7f0800f0;
-		public static final int visible_removing_fragment_view_tag = 0x7f080104;
+		public static final int visible_removing_fragment_view_tag = 0x7f080106;
 	}
 	public static final class integer {
 		public static final int status_bar_notification_info_maxnum = 0x7f09000e;

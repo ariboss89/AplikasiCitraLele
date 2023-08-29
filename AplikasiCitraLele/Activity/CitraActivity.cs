@@ -43,13 +43,13 @@ namespace AplikasiCitraLele.Activity
 
             SetContentView(Resource.Layout.CitraLayout);
 
-            btnKamera = FindViewById<Button>(Resource.Id.btnKamera);
+            //btnKamera = FindViewById<Button>(Resource.Id.btnKamera);
             btnUnggah = FindViewById<Button>(Resource.Id.btnUnggah);
             btnProses = FindViewById<Button>(Resource.Id.btnProses);
             //progressFoto = FindViewById<ProgressBar>(Resource.Id.btnProses);
             imgUnggahan = FindViewById<ImageView>(Resource.Id.imgUnggahan);
 
-            btnKamera.Click += BtnKamera_Click;
+            //btnKamera.Click += BtnKamera_Click;
             btnUnggah.Click += BtnUnggah_Click;
             btnProses.Click += BtnProses_Click;
 

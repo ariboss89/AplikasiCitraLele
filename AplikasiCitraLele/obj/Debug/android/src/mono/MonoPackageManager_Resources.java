@@ -4,6 +4,7 @@ public class MonoPackageManager_Resources {
 		/* We need to ensure that "AplikasiCitraLele.dll" comes first in this list. */
 		"AplikasiCitraLele.dll",
 		"Emgu.CV.dll",
+		"Newtonsoft.Json.dll",
 		"Plugin.Media.dll",
 		"Xamarin.AndroidX.Activity.dll",
 		"Xamarin.AndroidX.Annotation.dll",

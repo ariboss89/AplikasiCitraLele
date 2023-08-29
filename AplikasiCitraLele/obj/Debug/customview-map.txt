@@ -22,7 +22,6 @@ corners;obj/Debug/res/drawable/edge.xml
 dimen;obj/Debug/res/values/dimens.xml
 dimen;obj/Debug/res/values/styles.xml
 EditText;obj/Debug/res/layout/addpenggunalayout.xml
-EditText;obj/Debug/res/layout/historylayout.xml
 EditText;obj/Debug/res/layout/loginlayout.xml
 EditText;obj/Debug/res/layout/pengaturanlayout.xml
 EditText;obj/Debug/res/layout/penggunalayout.xml
@@ -85,8 +84,12 @@ stroke;obj/Debug/res/drawable/edge.xml
 style;obj/Debug/res/values/styles.xml
 TextView;obj/Debug/res/layout/addpenggunalayout.xml
 TextView;obj/Debug/res/layout/content_main.xml
+TextView;obj/Debug/res/layout/dilationlayout.xml
+TextView;obj/Debug/res/layout/grayscalelayout.xml
+TextView;obj/Debug/res/layout/historylayout.xml
 TextView;obj/Debug/res/layout/loginlayout.xml
 TextView;obj/Debug/res/layout/mainlayout.xml
 TextView;obj/Debug/res/layout/pengaturanlayout.xml
+TextView;obj/Debug/res/layout/thresholdlayout.xml
 vector;obj/Debug/res/drawable/arrow.xml
 View;obj/Debug/res/layout/mainlayout.xml

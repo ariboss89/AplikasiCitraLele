@@ -51,7 +51,7 @@
         android:layout_height="300dp"
         android:id="@+id/imgGrayScale"
         android:scaleType="fitXY"
-		android:src="@drawable/lele"
+		android:src="@mipmap/lele"
         />
 
     <LinearLayout

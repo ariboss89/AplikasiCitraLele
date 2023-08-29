@@ -1,13 +1,37 @@
 ﻿<Properties StartupConfiguration="{5E8D9C8C-6649-4EC0-AE91-A860C9AEEEAF}|Default">
-  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.pixel_5_-_api_32" />
   <MonoDevelop.MonoDroid LastDeploySdkVersion="13.2.0.0" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="AplikasiCitraLele/Activity/ThresholdTestingActivity.cs">
+  <MonoDevelop.Ide.ItemProperties.AplikasiCitraLele PreferredExecutionTarget="Android.pixel_5_-_api_32" AndroidDesignerPreferredDevice="Nexus 4" AndroidDesignerPreferredTheme="AppTheme" />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.pixel_5_-_api_32" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/ariramadhan/Projects/AplikasiCitraLele/AplikasiCitraLele/Activity/RemoveBGActivity.cs" relfile="AplikasiCitraLele/Activity/RemoveBGActivity.cs" line="58" column="1" />
+      <Breakpoint file="/Users/ariramadhan/Projects/AplikasiCitraLele/AplikasiCitraLele/Activity/DilationActivity.cs" relfile="AplikasiCitraLele/Activity/DilationActivity.cs" line="80" column="1" />
+      <Breakpoint file="/Users/ariramadhan/Projects/AplikasiCitraLele/AplikasiCitraLele/Services/CitraService.cs" relfile="AplikasiCitraLele/Services/CitraService.cs" line="70" column="1" />
+      <Breakpoint file="/Users/ariramadhan/Projects/AplikasiCitraLele/AplikasiCitraLele/Services/CitraService.cs" relfile="AplikasiCitraLele/Services/CitraService.cs" line="69" column="1" />
+      <Breakpoint file="/Users/ariramadhan/Projects/AplikasiCitraLele/AplikasiCitraLele/Services/CitraService.cs" relfile="AplikasiCitraLele/Services/CitraService.cs" line="60" column="1" />
+      <Breakpoint file="/Users/ariramadhan/Projects/AplikasiCitraLele/AplikasiCitraLele/Services/CitraService.cs" relfile="AplikasiCitraLele/Services/CitraService.cs" line="64" column="1" />
+      <Breakpoint file="/Users/ariramadhan/Projects/AplikasiCitraLele/AplikasiCitraLele/Services/CitraService.cs" relfile="AplikasiCitraLele/Services/CitraService.cs" line="58" column="1" />
+      <Breakpoint file="/Users/ariramadhan/Projects/AplikasiCitraLele/AplikasiCitraLele/Services/CitraService.cs" relfile="AplikasiCitraLele/Services/CitraService.cs" line="56" column="1" />
+      <Breakpoint file="/Users/ariramadhan/Projects/AplikasiCitraLele/AplikasiCitraLele/Services/CitraService.cs" relfile="AplikasiCitraLele/Services/CitraService.cs" line="54" column="1" />
+      <Breakpoint file="/Users/ariramadhan/Projects/AplikasiCitraLele/AplikasiCitraLele/Activity/DilationActivity.cs" relfile="AplikasiCitraLele/Activity/DilationActivity.cs" line="91" column="1" />
+      <Breakpoint file="/Users/ariramadhan/Projects/AplikasiCitraLele/AplikasiCitraLele/Services/CitraService.cs" relfile="AplikasiCitraLele/Services/CitraService.cs" line="53" column="1" />
+      <Breakpoint file="/Users/ariramadhan/Projects/AplikasiCitraLele/AplikasiCitraLele/Services/CitraService.cs" relfile="AplikasiCitraLele/Services/CitraService.cs" line="45" column="1" />
+      <Breakpoint file="/Users/ariramadhan/Projects/AplikasiCitraLele/AplikasiCitraLele/Services/CitraService.cs" relfile="AplikasiCitraLele/Services/CitraService.cs" line="46" column="1" />
+      <Breakpoint file="/Users/ariramadhan/Projects/AplikasiCitraLele/AplikasiCitraLele/Services/CitraService.cs" relfile="AplikasiCitraLele/Services/CitraService.cs" line="47" column="1" />
+      <Breakpoint file="/Users/ariramadhan/Projects/AplikasiCitraLele/AplikasiCitraLele/Services/CitraService.cs" relfile="AplikasiCitraLele/Services/CitraService.cs" line="48" column="1" />
+      <Breakpoint file="/Users/ariramadhan/Projects/AplikasiCitraLele/AplikasiCitraLele/Services/CitraService.cs" relfile="AplikasiCitraLele/Services/CitraService.cs" line="49" column="1" />
+      <Breakpoint file="/Users/ariramadhan/Projects/AplikasiCitraLele/AplikasiCitraLele/Services/CitraService.cs" relfile="AplikasiCitraLele/Services/CitraService.cs" line="51" column="1" />
+      <Breakpoint file="/Users/ariramadhan/Projects/AplikasiCitraLele/AplikasiCitraLele/Services/CitraService.cs" relfile="AplikasiCitraLele/Services/CitraService.cs" line="52" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="AplikasiCitraLele/Activity/HistoryActivity.cs">
     <Files>
-      <File FileName="AplikasiCitraLele/Activity/DilationActivity.cs" />
-      <File FileName="AplikasiCitraLele/Activity/GrayscaleActivity.cs" />
-      <File FileName="AplikasiCitraLele/Activity/ThresholdTestingActivity.cs" Line="177" Column="1" />
-      <File FileName="AplikasiCitraLele/MainActivity.cs" />
-      <File FileName="AplikasiCitraLele/Activity/CitraActivity.cs" />
+      <File FileName="AplikasiCitraLele/Resources/layout/LoginLayout.xml" Line="25" Column="19" />
+      <File FileName="AplikasiCitraLele/Resources/values/styles.xml" />
+      <File FileName="AplikasiCitraLele/Activity/HistoryActivity.cs" Line="78" Column="24" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -15,34 +39,14 @@
           <Node name="AplikasiCitraLele" expanded="True">
             <Node name="AplikasiCitraLele" expanded="True">
               <Node name="Activity" expanded="True">
-                <Node name="ThresholdTestingActivity.cs" selected="True" />
+                <Node name="HistoryActivity.cs" selected="True" />
               </Node>
-              <Node name="Resources" expanded="True">
-                <Node name="layout" expanded="True" />
-              </Node>
+              <Node name="Services" expanded="True" />
+              <Node name="StaticDetails" expanded="True" />
             </Node>
           </Node>
         </State>
       </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State>
-          <Value>SD_ImgProccess.ImgByte</Value>
-          <Value>bitmapData</Value>
-          <Value>arr</Value>
-        </State>
-      </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.AplikasiCitraLele AndroidDesignerPreferredTheme="AppTheme" AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.pixel_5_-_api_32" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore>
-      <Breakpoint file="/Users/ariramadhan/Projects/AplikasiCitraLele/AplikasiCitraLele/Activity/RemoveBGActivity.cs" relfile="AplikasiCitraLele/Activity/RemoveBGActivity.cs" line="58" column="1" />
-      <Breakpoint file="/Users/ariramadhan/Projects/AplikasiCitraLele/AplikasiCitraLele/Activity/CitraActivity.cs" relfile="AplikasiCitraLele/Activity/CitraActivity.cs" line="167" column="1" />
-      <Breakpoint file="/Users/ariramadhan/Projects/AplikasiCitraLele/AplikasiCitraLele/Activity/ThresholdTestingActivity.cs" relfile="AplikasiCitraLele/Activity/ThresholdTestingActivity.cs" line="205" column="1" />
-      <Breakpoint file="/Users/ariramadhan/Projects/AplikasiCitraLele/AplikasiCitraLele/Activity/ThresholdTestingActivity.cs" relfile="AplikasiCitraLele/Activity/ThresholdTestingActivity.cs" line="177" column="1" />
-    </BreakpointStore>
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>

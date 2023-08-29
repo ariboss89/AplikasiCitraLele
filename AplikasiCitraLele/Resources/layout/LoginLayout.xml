@@ -34,7 +34,7 @@
         android:layout_width="200dp"
         android:layout_height="200dp"
         android:scaleType="fitXY"
-		android:src="@drawable/lele"
+		android:src="@mipmap/lele"
         />
     <!-- Login progress -->
     <ProgressBar android:id="@+id/login_progress"
@@ -66,14 +66,14 @@
                 android:hint="Input IP Address"
                 android:digits="0123456789.:"
                 android:fontFamily="Arial"
-                android:layout_marginBottom="20dp"
+                android:layout_marginBottom="10dp"
                 android:textColorHint="@color/colorHint"
                 android:maxLines="1"
 				android:textSize="16dp"
 				android:textColor="@color/colorPrimary"
                 android:singleLine="true" />
 
-            <EditText
+            <!--<EditText
                 android:id="@+id/edtUsername"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -98,16 +98,16 @@
                 android:inputType="textPassword"
                 android:layout_marginBottom="20dp"
                 android:maxLines="1"
-                android:singleLine="true" />
+                android:singleLine="true" />-->
 
             <Button
-                android:id="@+id/btnLogin"
+                android:id="@+id/btnMasuk"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_marginTop="16dp"
+                android:layout_marginTop="0dp"
                 android:background="@color/colorBlue"
                 android:textColor="@color/colorBackground"
-                android:text="LOGIN"
+                android:text="Masuk"
                 android:textStyle="bold"
                 android:textSize="20dp"
                 />

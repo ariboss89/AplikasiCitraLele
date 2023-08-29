@@ -181,7 +181,21 @@ namespace AplikasiCitraLele.Activity
                 SD_ImgProccess.ImgByte = bitmapData;
             }
 
+            SD_ImgProccess.total_pixel = hitungPixel;
             var axx = hasilAkhir;
+
+            if(hitungPixel > 24000)
+            {
+                SD_ImgProccess.keterangan = "Ukuran Bibit Telah Mencapai Fase Besar";
+            }
+            else if(hitungPixel >=10000 && hitungPixel<=24000)
+            {
+                SD_ImgProccess.keterangan = "Ukuran Bibit Telah Mencapai Fase Sedang";
+            }
+            else if (hitungPixel < 10000)
+            {
+                SD_ImgProccess.keterangan = "Ukuran Bibit Masih Kecil";
+            }
 
             intent = new Android.Content.Intent(this, typeof(DilationActivity));
             intent.SetFlags(ActivityFlags.NewTask);

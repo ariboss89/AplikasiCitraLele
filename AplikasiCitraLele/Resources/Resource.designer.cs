@@ -3877,19 +3877,19 @@ namespace AplikasiCitraLele
 			public const int browser_actions_menu_view = 2131230792;
 			
 			// aapt resource value: 0x7F080049
-			public const int btnKamera = 2131230793;
+			public const int btnMasuk = 2131230793;
 			
 			// aapt resource value: 0x7F08004A
-			public const int btnLogin = 2131230794;
+			public const int btnProses = 2131230794;
 			
 			// aapt resource value: 0x7F08004B
-			public const int btnProses = 2131230795;
+			public const int btnRemove = 2131230795;
 			
 			// aapt resource value: 0x7F08004C
-			public const int btnRemove = 2131230796;
+			public const int btnSave = 2131230796;
 			
 			// aapt resource value: 0x7F08004D
-			public const int btnSave = 2131230797;
+			public const int btnSimpan = 2131230797;
 			
 			// aapt resource value: 0x7F08004E
 			public const int btnUnggah = 2131230798;
@@ -3988,94 +3988,94 @@ namespace AplikasiCitraLele
 			public const int edtOldPassword = 2131230828;
 			
 			// aapt resource value: 0x7F08006D
-			public const int edtPassword = 2131230829;
+			public const int edtSearch = 2131230829;
 			
 			// aapt resource value: 0x7F08006E
-			public const int edtSearch = 2131230830;
+			public const int edtUsername = 2131230830;
 			
 			// aapt resource value: 0x7F08006F
-			public const int edtUsername = 2131230831;
+			public const int email_login_form = 2131230831;
 			
 			// aapt resource value: 0x7F080070
-			public const int email_login_form = 2131230832;
+			public const int end = 2131230832;
 			
 			// aapt resource value: 0x7F080071
-			public const int end = 2131230833;
+			public const int enterAlways = 2131230833;
 			
 			// aapt resource value: 0x7F080072
-			public const int enterAlways = 2131230834;
+			public const int enterAlwaysCollapsed = 2131230834;
 			
 			// aapt resource value: 0x7F080073
-			public const int enterAlwaysCollapsed = 2131230835;
-			
-			// aapt resource value: 0x7F080074
-			public const int exitUntilCollapsed = 2131230836;
-			
-			// aapt resource value: 0x7F080076
-			public const int expanded_menu = 2131230838;
+			public const int exitUntilCollapsed = 2131230835;
 			
 			// aapt resource value: 0x7F080075
-			public const int expand_activities_button = 2131230837;
+			public const int expanded_menu = 2131230837;
+			
+			// aapt resource value: 0x7F080074
+			public const int expand_activities_button = 2131230836;
+			
+			// aapt resource value: 0x7F080076
+			public const int fab = 2131230838;
 			
 			// aapt resource value: 0x7F080077
-			public const int fab = 2131230839;
-			
-			// aapt resource value: 0x7F080078
-			public const int fill = 2131230840;
-			
-			// aapt resource value: 0x7F08007B
-			public const int filled = 2131230843;
-			
-			// aapt resource value: 0x7F080079
-			public const int fill_horizontal = 2131230841;
+			public const int fill = 2131230839;
 			
 			// aapt resource value: 0x7F08007A
-			public const int fill_vertical = 2131230842;
+			public const int filled = 2131230842;
+			
+			// aapt resource value: 0x7F080078
+			public const int fill_horizontal = 2131230840;
+			
+			// aapt resource value: 0x7F080079
+			public const int fill_vertical = 2131230841;
+			
+			// aapt resource value: 0x7F08007B
+			public const int @fixed = 2131230843;
 			
 			// aapt resource value: 0x7F08007C
-			public const int @fixed = 2131230844;
+			public const int forever = 2131230844;
 			
 			// aapt resource value: 0x7F08007D
-			public const int forever = 2131230845;
-			
-			// aapt resource value: 0x7F08007E
-			public const int fragment_container_view_tag = 2131230846;
+			public const int fragment_container_view_tag = 2131230845;
 			
 			// aapt resource value: 0x7F080002
 			public const int FUNCTION = 2131230722;
 			
+			// aapt resource value: 0x7F08007E
+			public const int ghost_view = 2131230846;
+			
 			// aapt resource value: 0x7F08007F
-			public const int ghost_view = 2131230847;
+			public const int ghost_view_holder = 2131230847;
 			
 			// aapt resource value: 0x7F080080
-			public const int ghost_view_holder = 2131230848;
+			public const int group_divider = 2131230848;
 			
 			// aapt resource value: 0x7F080081
-			public const int group_divider = 2131230849;
+			public const int home = 2131230849;
 			
 			// aapt resource value: 0x7F080082
-			public const int home = 2131230850;
+			public const int homeAsUp = 2131230850;
 			
 			// aapt resource value: 0x7F080083
-			public const int homeAsUp = 2131230851;
+			public const int icon = 2131230851;
 			
 			// aapt resource value: 0x7F080084
-			public const int icon = 2131230852;
+			public const int icon_group = 2131230852;
 			
 			// aapt resource value: 0x7F080085
-			public const int icon_group = 2131230853;
+			public const int ifRoom = 2131230853;
 			
 			// aapt resource value: 0x7F080086
-			public const int ifRoom = 2131230854;
+			public const int image = 2131230854;
 			
 			// aapt resource value: 0x7F080087
-			public const int image = 2131230855;
+			public const int imgAdd = 2131230855;
 			
 			// aapt resource value: 0x7F080088
-			public const int imgAdd = 2131230856;
+			public const int imgArrow = 2131230856;
 			
 			// aapt resource value: 0x7F080089
-			public const int imgArrow = 2131230857;
+			public const int imgCitra = 2131230857;
 			
 			// aapt resource value: 0x7F08008A
 			public const int imgGrayScale = 2131230858;
@@ -4306,7 +4306,7 @@ namespace AplikasiCitraLele
 			public const int spacer = 2131230931;
 			
 			// aapt resource value: 0x7F0800D4
-			public const int spinId = 2131230932;
+			public const int spinCitra = 2131230932;
 			
 			// aapt resource value: 0x7F0800D5
 			public const int split_action_bar = 2131230933;
@@ -4429,37 +4429,43 @@ namespace AplikasiCitraLele
 			public const int transition_transform = 2131230971;
 			
 			// aapt resource value: 0x7F0800FC
-			public const int @unchecked = 2131230972;
+			public const int txtKet = 2131230972;
 			
 			// aapt resource value: 0x7F0800FD
-			public const int uniform = 2131230973;
+			public const int txtTotal = 2131230973;
 			
 			// aapt resource value: 0x7F0800FE
-			public const int unlabeled = 2131230974;
+			public const int @unchecked = 2131230974;
 			
 			// aapt resource value: 0x7F0800FF
-			public const int up = 2131230975;
+			public const int uniform = 2131230975;
 			
 			// aapt resource value: 0x7F080100
-			public const int useLogo = 2131230976;
+			public const int unlabeled = 2131230976;
 			
 			// aapt resource value: 0x7F080101
-			public const int view_offset_helper = 2131230977;
+			public const int up = 2131230977;
 			
 			// aapt resource value: 0x7F080102
-			public const int view_tree_saved_state_registry_owner = 2131230978;
+			public const int useLogo = 2131230978;
 			
 			// aapt resource value: 0x7F080103
-			public const int visible = 2131230979;
+			public const int view_offset_helper = 2131230979;
 			
 			// aapt resource value: 0x7F080104
-			public const int visible_removing_fragment_view_tag = 2131230980;
+			public const int view_tree_saved_state_registry_owner = 2131230980;
 			
 			// aapt resource value: 0x7F080105
-			public const int withText = 2131230981;
+			public const int visible = 2131230981;
 			
 			// aapt resource value: 0x7F080106
-			public const int wrap_content = 2131230982;
+			public const int visible_removing_fragment_view_tag = 2131230982;
+			
+			// aapt resource value: 0x7F080107
+			public const int withText = 2131230983;
+			
+			// aapt resource value: 0x7F080108
+			public const int wrap_content = 2131230984;
 			
 			static Id()
 			{
@@ -4828,6 +4834,9 @@ namespace AplikasiCitraLele
 			
 			// aapt resource value: 0x7F0D0002
 			public const int ic_launcher_round = 2131558402;
+			
+			// aapt resource value: 0x7F0D0003
+			public const int lele = 2131558403;
 			
 			static Mipmap()
 			{
